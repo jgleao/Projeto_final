@@ -81,7 +81,3 @@ def menu():
             print("Opção inválida!\n")
 
 menu()
-git remote add origin https://github.com/jgleao/Projeto_final.git
-git remote add origin
-git config --global user.name "Joao Vieira"
-git config --global user.email "jgleaovieira@gmail.com"
